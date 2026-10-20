@@ -1,0 +1,13 @@
+node_modules
+dist
+.output
+.tanstack
+.vercel
+*.log
+artifacts
+screenshots
+data
+public/renders
+attachments
+.env
+.env.*
