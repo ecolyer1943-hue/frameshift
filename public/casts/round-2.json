@@ -1,0 +1,67 @@
+[
+  {
+    "round": 2,
+    "id": "ruth",
+    "name": "Ruth",
+    "scene": "Night street",
+    "portraitPrompt": "Photographed portrait of a fictional woman with a shaved head and one gold hoop earring, grey wall, soft light, head and shoulders, no text.",
+    "editPrompt": "Replace only the person. The later image is the person who must appear: match their face, hair, age, and clothing. Keep the first image's pose, camera, lighting, and room. Remove every trace of the original face and clothes. One person only. No text, logos, or extra people.",
+    "motion": "They take two steps on the wet street and look back. Keep this person's face and their own clothes. Blue neon, no extra people and no text.",
+    "photo": "casts/ruth.jpg",
+    "still": "casts/ruth-still.jpg",
+    "video": "casts/ruth.mp4",
+    "error": ""
+  },
+  {
+    "round": 2,
+    "id": "eli",
+    "name": "Eli",
+    "scene": "Night street",
+    "portraitPrompt": "Photographed portrait of a fictional older man with a grey beard and a wool cap, overcast daylight, head and shoulders, no text.",
+    "editPrompt": "Replace only the person. The later image is the person who must appear: match their face, hair, age, and clothing. Keep the first image's pose, camera, lighting, and room. Remove every trace of the original face and clothes. One person only. No text, logos, or extra people.",
+    "motion": "They take two steps on the wet street and look back. Keep this person's face and their own clothes. Blue neon, no extra people and no text.",
+    "photo": "casts/eli.jpg",
+    "still": "casts/eli-still.jpg",
+    "video": "casts/eli.mp4",
+    "error": ""
+  },
+  {
+    "round": 2,
+    "id": "hana",
+    "name": "Hana",
+    "scene": "Night street",
+    "portraitPrompt": "Photographed portrait of a fictional woman with long black hair and a cream coat, pale background, soft light, head and shoulders, no text.",
+    "editPrompt": "Replace only the person. The later image is the person who must appear: match their face, hair, age, and clothing. Keep the first image's pose, camera, lighting, and room. Remove every trace of the original face and clothes. One person only. No text, logos, or extra people.",
+    "motion": "They take two steps on the wet street and look back. Keep this person's face and their own clothes. Blue neon, no extra people and no text.",
+    "photo": "casts/hana.jpg",
+    "still": "casts/hana-still.jpg",
+    "video": "casts/hana.mp4",
+    "error": ""
+  },
+  {
+    "round": 2,
+    "id": "mateo",
+    "name": "Mateo",
+    "scene": "Night street",
+    "portraitPrompt": "Photographed portrait of a fictional man with freckles and a green field jacket, open sky behind him, head and shoulders, no text.",
+    "editPrompt": "Replace only the person. The later image is the person who must appear: match their face, hair, age, and clothing. Keep the first image's pose, camera, lighting, and room. Remove every trace of the original face and clothes. One person only. No text, logos, or extra people.",
+    "motion": "They take two steps on the wet street and look back. Keep this person's face and their own clothes. Blue neon, no extra people and no text.",
+    "photo": "casts/mateo.jpg",
+    "still": "casts/mateo-still.jpg",
+    "video": "casts/mateo.mp4",
+    "error": ""
+  },
+  {
+    "round": 2,
+    "id": "iris",
+    "name": "Iris",
+    "scene": "Night street",
+    "portraitPrompt": "Photographed portrait of a fictional woman with a pixie cut and round glasses, bookstore light, head and shoulders, no text.",
+    "editPrompt": "Replace only the person. The later image is the person who must appear: match their face, hair, age, and clothing. Keep the first image's pose, camera, lighting, and room. Remove every trace of the original face and clothes. One person only. No text, logos, or extra people.",
+    "motion": "They take two steps on the wet street and look back. Keep this person's face and their own clothes. Blue neon, no extra people and no text.",
+    "photo": "casts/iris.jpg",
+    "still": "casts/iris-still.jpg",
+    "video": "casts/iris.mp4",
+    "error": ""
+  }
+]

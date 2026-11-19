@@ -1,0 +1,59 @@
+[
+  {
+    "id": "soren",
+    "error": "",
+    "name": "Soren",
+    "method": "One sentence",
+    "feature": "Recast, Hold camera, room sound, locks on",
+    "seconds": 10,
+    "prompt": "He sets a watering can down, wipes one hand on his shirt, and looks at the plants.",
+    "composed": "He sets a watering can down, wipes one hand on his shirt, and looks at the plants. Camera: The camera stays locked off, almost still. The provided image is frame one. Preserve the subject and identity. Preserve the setting, materials, and lighting. Add only the described motion. Do not add text, logos, or new people. Sound as if a microphone was in the room: footsteps, cloth, breath, and the place itself. No music, no voiceover, no announcer.",
+    "photo": "casts/deep/soren.jpg",
+    "video": "casts/deep/soren.mp4"
+  },
+  {
+    "id": "mara",
+    "error": "",
+    "name": "Mara",
+    "method": "Numbered shot list plus a spoken line",
+    "feature": "Recast, Push in, dialogue, 15 seconds",
+    "seconds": 15,
+    "prompt": "1. She is at the stove, not looking up. 2. She turns the burner off. 3. She looks toward the doorway and speaks. 4. She waits, one hand still on the kettle.",
+    "dialogue": "I left the kettle on. Give me one minute.",
+    "composed": "1. She is at the stove, not looking up. 2. She turns the burner off. 3. She looks toward the doorway and speaks. 4. She waits, one hand still on the kettle. Camera: A slow, steady dolly push toward the subject. The provided image is frame one. Preserve the subject and identity. Preserve the setting, materials, and lighting. Add only the described motion. Do not add text, logos, or new people. The person speaks on set, close and human, with real breaths and the pace of the moment. Their mouth matches the words. Not a narrator, not a commercial read, and no music under the line. They say: \"I left the kettle on. Give me one minute.\".",
+    "photo": "casts/deep/mara.jpg",
+    "video": "casts/deep/mara.mp4"
+  },
+  {
+    "id": "kenji",
+    "error": "",
+    "name": "Kenji",
+    "method": "Negatives first, then the only action",
+    "feature": "Animate, end frame, Orbit, silent, square",
+    "seconds": 10,
+    "prompt": "Do not add anyone. Do not change the room. Do not cut. He only closes the book and looks down.",
+    "composed": "Do not add anyone. Do not change the room. Do not cut. He only closes the book and looks down. Camera: A gentle orbit around the subject, smooth and unhurried. The provided image is frame one. Preserve the subject and identity. Preserve the setting, materials, and lighting. The second image is the last frame. Arrive there smoothly, without a cut. Add only the described motion. Do not add text, logos, or new people. Silent picture. No dialogue, no music, no voiceover.",
+    "photo": "casts/deep/kenji.jpg",
+    "video": "casts/deep/kenji.mp4"
+  },
+  {
+    "id": "priya",
+    "error": "poll 403 "
+  },
+  {
+    "id": "wes",
+    "error": "403 You have run out of credits or need a Grok subscription. Add credits at https://grok.com/?_s=usage or upgrade at https://grok.com/supergrok."
+  },
+  {
+    "id": "lila",
+    "error": "403 You have run out of credits or need a Grok subscription. Add credits at https://grok.com/?_s=usage or upgrade at https://grok.com/supergrok."
+  },
+  {
+    "id": "jonah",
+    "error": "403 You have run out of credits or need a Grok subscription. Add credits at https://grok.com/?_s=usage or upgrade at https://grok.com/supergrok."
+  },
+  {
+    "id": "noor",
+    "error": "403 You have run out of credits or need a Grok subscription. Add credits at https://grok.com/?_s=usage or upgrade at https://grok.com/supergrok."
+  }
+]

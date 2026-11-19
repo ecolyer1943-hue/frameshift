@@ -1,0 +1,67 @@
+[
+  {
+    "round": 1,
+    "id": "ada",
+    "name": "Ada",
+    "scene": "Concrete room",
+    "portraitPrompt": "Photographed portrait of a fictional woman in her sixties, silver hair pinned back, navy wool coat, pale wall, window light, head and shoulders, no text.",
+    "editPrompt": "Replace the person in the first image with the person in the later image. Keep the first image's pose, camera angle, lighting, and background. Do not add text, logos, or extra people.",
+    "motion": "They walk across the concrete room, slow down, and look back over one shoulder. Keep this person's face. Natural room light. No extra people and no text.",
+    "photo": "casts/ada.jpg",
+    "still": "casts/ada-still.jpg",
+    "video": "casts/ada.mp4",
+    "error": ""
+  },
+  {
+    "round": 1,
+    "id": "leo",
+    "name": "Leo",
+    "scene": "Concrete room",
+    "portraitPrompt": "Photographed portrait of a fictional young man with round glasses and a rumpled linen shirt, soft daylight, head and shoulders, no text.",
+    "editPrompt": "Replace the person in the first image with the person in the later image. Keep the first image's pose, camera angle, lighting, and background. Do not add text, logos, or extra people.",
+    "motion": "They walk across the concrete room, slow down, and look back over one shoulder. Keep this person's face. Natural room light. No extra people and no text.",
+    "photo": "casts/leo.jpg",
+    "still": "casts/leo-still.jpg",
+    "video": "casts/leo.mp4",
+    "error": ""
+  },
+  {
+    "round": 1,
+    "id": "nia",
+    "name": "Nia",
+    "scene": "Concrete room",
+    "portraitPrompt": "Photographed portrait of a fictional woman with short dark curls and a red scarf, grey studio wall, soft light, head and shoulders, no text.",
+    "editPrompt": "Replace the person in the first image with the person in the later image. Keep the first image's pose, camera angle, lighting, and background. Do not add text, logos, or extra people.",
+    "motion": "They walk across the concrete room, slow down, and look back over one shoulder. Keep this person's face. Natural room light. No extra people and no text.",
+    "photo": "casts/nia.jpg",
+    "still": "casts/nia-still.jpg",
+    "video": "casts/nia.mp4",
+    "error": ""
+  },
+  {
+    "round": 1,
+    "id": "omar",
+    "name": "Omar",
+    "scene": "Concrete room",
+    "portraitPrompt": "Photographed portrait of a fictional man in his forties with a short beard and a charcoal sweater, warm indoor light, head and shoulders, no text.",
+    "editPrompt": "Replace the person in the first image with the person in the later image. Keep the first image's pose, camera angle, lighting, and background. Do not add text, logos, or extra people.",
+    "motion": "They walk across the concrete room, slow down, and look back over one shoulder. Keep this person's face. Natural room light. No extra people and no text.",
+    "photo": "casts/omar.jpg",
+    "still": "casts/omar-still.jpg",
+    "video": "casts/omar.mp4",
+    "error": ""
+  },
+  {
+    "round": 1,
+    "id": "june",
+    "name": "June",
+    "scene": "Concrete room",
+    "portraitPrompt": "Photographed portrait of a fictional teenage girl with a single braid and a denim jacket, afternoon light, head and shoulders, no text.",
+    "editPrompt": "Replace the person in the first image with the person in the later image. Keep the first image's pose, camera angle, lighting, and background. Do not add text, logos, or extra people.",
+    "motion": "They walk across the concrete room, slow down, and look back over one shoulder. Keep this person's face. Natural room light. No extra people and no text.",
+    "photo": "casts/june.jpg",
+    "still": "casts/june-still.jpg",
+    "video": "casts/june.mp4",
+    "error": ""
+  }
+]

@@ -1,0 +1,14 @@
+node_modules
+dist
+.output
+.tanstack
+.vercel
+*.log
+artifacts
+screenshots
+data
+public/renders
+public/casts/deep/kenji-upscaled.mp4
+attachments
+.env
+.env.*
